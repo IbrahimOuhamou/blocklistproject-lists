@@ -13,6 +13,11 @@
 #
 # Piracy list
 # ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 anime4up.lol
+0.0.0.0 anime4up.rest
+0.0.0.0 anime4up.*
+0.0.0.0 ww1.animeiat.tv
+0.0.0.0 itch.io
 0.0.0.0 0daycn.net
 0.0.0.0 100-postal2.blogspot.com
 0.0.0.0 1337x.to
